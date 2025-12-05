@@ -1,0 +1,28 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "\"Repository dedicated to DevOps practices, bringing together configurations, scripts, and tools to automate continuous integration, deployment, infrastructure management, and application reliability across the entire lifecycle.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibraum/devops.git"
+  },
+  "keywords": [
+    "docker",
+    "pipelines",
+    "cicd"
+  ],
+  "author": "ibraum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibraum/devops/issues"
+  },
+  "homepage": "https://github.com/ibraum/devops#readme",
+  "dependencies": {
+    "nodejs": "^0.0.0"
+  }
+}
